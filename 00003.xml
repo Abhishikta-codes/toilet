@@ -1,0 +1,25 @@
+<annotation>
+	<folder>VGGNew</folder>
+	<filename>00003.png</filename>
+	<path>/home/abhi/VGGNew/images/00003.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>573</width>
+		<height>355</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>toilet</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>397</xmin>
+			<ymin>114</ymin>
+			<xmax>449</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>
